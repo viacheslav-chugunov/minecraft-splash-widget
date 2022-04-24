@@ -3,7 +3,7 @@
     android:initialLayout="@layout/splash_widget"
     android:minWidth="250dp"
     android:minHeight="40dp"
-    android:resizeMode="vertical|horizontal"
+    android:resizeMode="none"
     android:updatePeriodMillis="3600000"
     android:widgetCategory="home_screen"
     android:previewImage="@drawable/minecraft_title"
