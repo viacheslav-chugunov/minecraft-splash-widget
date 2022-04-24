@@ -9,9 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:contentDescription="@string/minecraft_title"
-        android:paddingVertical="24dp"
-        android:paddingStart="24dp"
-        android:paddingEnd="28dp"
+        android:padding="24dp"
         android:src="@drawable/minecraft_title" />
 
     <ImageView
@@ -20,8 +18,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="end|bottom"
         android:layout_marginEnd="24dp"
-        android:layout_marginBottom="24dp"
-        android:rotation="-10"
+        android:layout_marginBottom="28dp"
+        android:rotation="-5"
         android:rotationX="0"
         android:rotationY="0"
         android:shadowColor="@color/yellow_splash_shadow"

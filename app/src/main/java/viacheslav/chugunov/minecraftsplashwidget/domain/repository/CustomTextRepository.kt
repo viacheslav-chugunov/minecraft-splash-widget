@@ -14,7 +14,7 @@ interface CustomTextRepository {
     class Default(
         private val context: Context,
         private val screenWidthDp: Float = 250f,
-        private val screenHeightDp: Float = 40f,
+        private val screenHeightDp: Float = 50f,
         private val fontAssetPath: String = "fonts/minecraft.ttf",
         private val fontColorHex: String = "#ffffff00"
     ) : CustomTextRepository {
@@ -25,12 +25,12 @@ interface CustomTextRepository {
             val bitmap = Bitmap.createBitmap(width.toInt(), height.toInt(), Bitmap.Config.ARGB_8888)
             val canvas = Canvas(bitmap)
             val textSizeSp = when (text.length) {
-                in 0..5 -> 16f
-                in 6..10 -> 14f
-                in 11..15 -> 13f
+                in 0..5 -> 18f
+                in 6..10 -> 16f
+                in 11..15 -> 14f
                 in 16..25 -> 12f
-                in 26..35 -> 11f
-                else -> 10f
+                in 26..35 -> 10f
+                else -> 8f
             }
             val paint = Paint().apply {
                 isAntiAlias = true
