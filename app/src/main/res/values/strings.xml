@@ -1,3 +1,356 @@
 <resources>
-    <string name="app_name">MinecraftSplashWidget</string>
+    <string name="app_name">Minecraft Splash Widget</string>
+    <string name="minecraft_title">Minecraft</string>
+    <string name="description">Minecraft Splashes on Your Device</string>
+
+    <string-array name="splashes">
+        <item>As seen on TV!</item>
+        <item>The End?</item>
+        <item>Should not be played while driving.</item>
+        <item>1% sugar!</item>
+        <item>Ph1lza had a good run!</item>
+        <item>Awesome!</item>
+        <item>100% pure!</item>
+        <item>May contain nuts!</item>
+        <item>All is full of love!</item>
+        <item>More polygons!</item>
+        <item>Limited edition!</item>
+        <item>Flashing letters!</item>
+        <item>Made by Notch!</item>
+        <item>It\'s here!</item>
+        <item>Put that cookie down!</item>
+        <item>Best in class!</item>
+        <item>It\'s finished!</item>
+        <item>Kind of dragon free!</item>
+        <item>Call you Mom!</item>
+        <item>Excitement!</item>
+        <item>More than 500 sold!</item>
+        <item>One of a kind!</item>
+        <item>Heaps of hits on YouTube!</item>
+        <item>Indev!</item>
+        <item>Spiders everywhere!</item>
+        <item>Check it out!</item>
+        <item>Holy cow, man!</item>
+        <item>It\'s a game!</item>
+        <item>Made in Sweden!</item>
+        <item>Uses LWJGL!</item>
+        <item>Reticulating splines!</item>
+        <item>Minecraft!</item>
+        <item>Yaaay!</item>
+        <item>Singleplayer!</item>
+        <item>Keyboard compatible!</item>
+        <item>Undocumented!</item>
+        <item>Ingots!</item>
+        <item>Exploding creepers!</item>
+        <item>That\'s no moon!</item>
+        <item>L33t!</item>
+        <item>Create!</item>
+        <item>Survive!</item>
+        <item>Dungeon!</item>
+        <item>Exclusive!</item>
+        <item>The bee\'s knees!</item>
+        <item>Down with O.P.P.!</item>
+        <item>Closed source!</item>
+        <item>Classy!</item>
+        <item>Wow!</item>
+        <item>Not on steam!</item>
+        <item>Oh man!</item>
+        <item>Awesome community!</item>
+        <item>Pixels!</item>
+        <item>Teetsuuuuoooo!</item>
+        <item>Kaaneeeedaaaa!</item>
+        <item>Now with difficulty!</item>
+        <item>Enhanced!</item>
+        <item>90% bug free!</item>
+        <item>Pretty!</item>
+        <item>12 herbs and spices!</item>
+        <item>Fat free!</item>
+        <item>Absolutely no memes!</item>
+        <item>Free dental!</item>
+        <item>Ask your doctor!</item>
+        <item>Minors welcome!</item>
+        <item>Cloud computing!</item>
+        <item>Legal in Finland!</item>
+        <item>Hard to label!</item>
+        <item>Technically good!</item>
+        <item>Bringing home the bacon!</item>
+        <item>Indie!</item>
+        <item>GOTY!</item>
+        <item>Ceci n\'est pas une title screen!</item>
+        <item>Euclidian!</item>
+        <item>Now in 3D!</item>
+        <item>Inspirational!</item>
+        <item>Herregud!</item>
+        <item>Complex cellular automata!</item>
+        <item>Yes, sir!</item>
+        <item>Played by cowboys!</item>
+        <item>OpenGL 1.2!</item>
+        <item>Thousands of colors!</item>
+        <item>Try it!</item>
+        <item>Age of Wonders is better!</item>
+        <item>Try the mushroom stew!</item>
+        <item>Sensational!</item>
+        <item>Hot tamale, hot hot tamale!</item>
+        <item>Play him off, keyboard cat!</item>
+        <item>Guaranteed!</item>
+        <item>Macroscopic!</item>
+        <item>Bring it on!</item>
+        <item>Random splash!</item>
+        <item>Call your mother!</item>
+        <item>Monster infighting!</item>
+        <item>Loved by millions!</item>
+        <item>Ultimate edition!</item>
+        <item>Freaky!</item>
+        <item>You\'ve got a brand new key!</item>
+        <item>Water proof!</item>
+        <item>Uninflammable!</item>
+        <item>Whoa, dude!</item>
+        <item>All inclusive!</item>
+        <item>Tell your friends!</item>
+        <item>NP is not in P!</item>
+        <item>Music by C418!</item>
+        <item>Livestreamed!</item>
+        <item>Haunted!</item>
+        <item>Polynomial!</item>
+        <item>Terrestrial!</item>
+        <item>Full of stars!</item>
+        <item>Scientific!</item>
+        <item>Cooler than Spock!</item>
+        <item>Collaborate and listen!</item>
+        <item>Never dig down!</item>
+        <item>Take frequent breaks!</item>
+        <item>Not linear!</item>
+        <item>Han shot first!</item>
+        <item>Nice to meet you!</item>
+        <item>Buckets of lava!</item>
+        <item>Ride the pig!</item>
+        <item>Larger than Earth!</item>
+        <item>sqrt(-1) love you!</item>
+        <item>Phobos anomaly!</item>
+        <item>Punching wood!</item>
+        <item>Falling off cliffs!</item>
+        <item>150% hyperbole!</item>
+        <item>Synecdoche!</item>
+        <item>Let\'s dance!</item>
+        <item>Seecret Friday update!</item>
+        <item>Reference implementation!</item>
+        <item>Lewd with two dudes with food!</item>
+        <item>Kiss the sky!</item>
+        <item>20 GOTO 10!</item>
+        <item>Verlet intregration!</item>
+        <item>Peter Griffin!</item>
+        <item>Do not distribute!</item>
+        <item>Cogito ergo sum!</item>
+        <item>[[]] lines of code!</item>
+        <item>A skeleton popped out!</item>
+        <item>The Work of Notch!</item>
+        <item>The sum of its parts!</item>
+        <item>BTAF used to be good!</item>
+        <item>I miss ADOM!</item>
+        <item>umop-apisdn!</item>
+        <item>OICU812!</item>
+        <item>Bring me Ray Cokes!</item>
+        <item>Finger-licking!</item>
+        <item>Thematic!</item>
+        <item>Pneumatic!</item>
+        <item>Sublime!</item>
+        <item>Octagonal!</item>
+        <item>Une baguette!</item>
+        <item>Gargamel plays it!</item>
+        <item>Rita is the new top dog!</item>
+        <item>SWM forever!</item>
+        <item>Representing Edsbyn!</item>
+        <item>Matt Damon!</item>
+        <item>Supercalifragilisticexpialidocious!</item>
+        <item>Consummate V\'s!</item>
+        <item>Cow Tools!</item>
+        <item>Double buffered!</item>
+        <item>Fan fiction!</item>
+        <item>Jason! Jason! Jason!</item>
+        <item>Hotter than the sun!</item>
+        <item>Internet enabled!</item>
+        <item>Autonomous!</item>
+        <item>Engage!</item>
+        <item>Fantasy!</item>
+        <item>DRR! DRR! DRR!</item>
+        <item>Kick it root down!</item>
+        <item>Regional resources!</item>
+        <item>Woo, facepunch!</item>
+        <item>Woo, somethingawful!</item>
+        <item>Woo, /v/!</item>
+        <item>Woo, tigsource!</item>
+        <item>Woo, minecraftforum!</item>
+        <item>Woo, worldofminecraft!</item>
+        <item>Woo, reddit!</item>
+        <item>Woo, 2pp!</item>
+        <item>Google anlyticsed!</item>
+        <item>Now supports åäö!</item>
+        <item>Give us Gordon!</item>
+        <item>Tip your waiter!</item>
+        <item>Very fun!</item>
+        <item>12345 is a bad password!</item>
+        <item>Vote for net neutrality!</item>
+        <item>Lives in a pineapple under the sea!</item>
+        <item>MAP11 has two names!</item>
+        <item>Omnipotent!</item>
+        <item>Gasp!</item>
+        <item>…!</item>
+        <item>Bees, bees, bees, bees!</item>
+        <item>Jag känner en bot! (I feel a cure!)</item>
+        <item>This text is hard to read if you play the game at the default resolution, but at 1080p it\'s fine!</item>
+        <item>Haha, LOL!</item>
+        <item>Hampsterdance!</item>
+        <item>Switches and ores!</item>
+        <item>Menger sponge!</item>
+        <item>idspispopd!</item>
+        <item>Eple (original edit)!</item>
+        <item>So fresh, so clean!</item>
+        <item>Slow acting portals!</item>
+        <item>Try the Nether!</item>
+        <item>Don\'t look directly at the bugs!</item>
+        <item>Oh, ok, Pigmen!</item>
+        <item>Finally with ladders!</item>
+        <item>Scary!</item>
+        <item>Play Minecraft, Watch Topgear, Get Pig!</item>
+        <item>Twittered about!</item>
+        <item>Jump up, jump up, and get down!</item>
+        <item>Joel is neat!</item>
+        <item>A riddle, wrapped in a mystery!</item>
+        <item>Huge tracts of land!</item>
+        <item>Welcome to your Doom!</item>
+        <item>Stay a while, stay forever!</item>
+        <item>Stay a while and listen!</item>
+        <item>Treatment for your rash!</item>
+        <item>"Autological" is!</item>
+        <item>Information wants to be free!</item>
+        <item>"Almost never" is an interesting concept!</item>
+        <item>Lots of truthiness!</item>
+        <item>The creeper is a spy!</item>
+        <item>Turing complete!</item>
+        <item>It\'s groundbreaking!</item>
+        <item>Let our battle\'s begin!</item>
+        <item>The sky is the limit!</item>
+        <item>Jeb has amazing hair!</item>
+        <item>Casual gaming!</item>
+        <item>Undefeated!</item>
+        <item>Kinda like Lemmings!</item>
+        <item>Follow the train, CJ!</item>
+        <item>Leveraging synergy!</item>
+        <item>This message will never appear on the splash screen, isn\'t that weird? (This message will not actually appear on the splash screen of Minecraft. It can only be seen in the Minecraft splash text files.)</item>
+        <item>DungeonQuest is unfair!</item>
+        <item>110813!</item>
+        <item>90210!</item>
+        <item>Check out the far lands!</item>
+        <item>Tyrion would love it!</item>
+        <item>Also try VVVVVV!</item>
+        <item>Also try Super Meat Boy!</item>
+        <item>Also try Terraria!</item>
+        <item>Also try Mount And Blade!</item>
+        <item>Also try Project Zomboid!</item>
+        <item>Also try World of Goo!</item>
+        <item>Also try Limbo!</item>
+        <item>Also try Pixeljunk Shooter!</item>
+        <item>Also try Braid!</item>
+        <item>That\'s super!</item>
+        <item>Bread is pain!</item>
+        <item>Read more books!</item>
+        <item>Khaaaaaaaaan!</item>
+        <item>Less addictive than TV Tropes!</item>
+        <item>More addictive than lemonade!</item>
+        <item>Bigger than a bread box!</item>
+        <item>Millions of peaches!</item>
+        <item>Fnord!</item>
+        <item>This is my true form!</item>
+        <item>Totally forgot about Dre!</item>
+        <item>Don\'t bother with the clones!</item>
+        <item>Pumpkinhead!</item>
+        <item>Hobo humping slobo babe!</item>
+        <item>Made by Jeb!</item>
+        <item>Has an ending!</item>
+        <item>Finally complete!</item>
+        <item>Feature packed!</item>
+        <item>Boots with the fur!</item>
+        <item>Stop, hammertime!</item>
+        <item>Testificates!</item>
+        <item>Conventional!</item>
+        <item>Homeomorphic to a 3-sphere!</item>
+        <item>Doesn\'t avoid double negatives!</item>
+        <item>Place ALL the blocks!</item>
+        <item>Does barrel rolls!</item>
+        <item>Meeting expectations!</item>
+        <item>PC gaming since 1873!</item>
+        <item>Ghoughpteighbteau tchoghs!</item>
+        <item>Déjà vu!</item>
+        <item>Got your nose!</item>
+        <item>Haley loves Elan!</item>
+        <item>Afraid of the big, black bat!</item>
+        <item>Doesn\'t use the U-word!</item>
+        <item>Child\'s play!</item>
+        <item>See you next Friday or so!</item>
+        <item>From the streets of Södermalm!</item>
+        <item>150 bpm for 400000 minutes!</item>
+        <item>Technologic!</item>
+        <item>Funk soul brother!</item>
+        <item>Pumpa kungen!</item>
+        <item>日本ハロー！</item>
+        <item>한국 안녕하세요!</item>
+        <item>Helo Cymru!</item>
+        <item>Cześć Polska!</item>
+        <item>你好中国！</item>
+        <item>Привет Россия!</item>
+        <item>Γεια σου ελλάδα!</item>
+        <item>My life for Aiur!</item>
+        <item>Lennart lennart = new Lennart();</item>
+        <item>I see your vocabulary has improved!</item>
+        <item>Who put it there?</item>
+        <item>You can\'t explain that!</item>
+        <item>If not ok then return end</item>
+        <item>§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac</item>
+        <item>§kFUNKY LOL</item>
+        <item>Flavor with no seasoning!</item>
+        <item>Strange, but not a stranger!</item>
+        <item>Tougher than diamonds, rich like cream!</item>
+        <item>Getting ready to show!</item>
+        <item>Getting ready to know!</item>
+        <item>Getting ready to drop!</item>
+        <item>Getting ready to shock!</item>
+        <item>Getting ready to freak!</item>
+        <item>Getting ready to speak!</item>
+        <item>It swings, it jives!</item>
+        <item>Cruising streets for gold!</item>
+        <item>Take an eggbeater and beat it against a skillet!</item>
+        <item>Make me a table, a funky table!</item>
+        <item>Take the elevator to the mezzanine!</item>
+        <item>Stop being reasonable, this is the Internet!</item>
+        <item>/give @a hugs 64</item>
+        <item>This is good for Realms.</item>
+        <item>Any computer is a laptop if you\'re brave enough!</item>
+        <item>Do it all, everything!</item>
+        <item>Where there is not light, there can spider!</item>
+        <item>GNU Terry Pratchett</item>
+        <item>More Digital!</item>
+        <item>Falling with style!</item>
+        <item>There\'s no stopping the Trollmaso</item>
+        <item>Throw yourself at the ground and miss</item>
+        <item>Rule #1: it\'s never my fault</item>
+        <item>Replaced molten cheese with blood?</item>
+        <item>Absolutely fixed relatively broken coordinates</item>
+        <item>Boats FTW</item>
+        <item>Javalicious edition</item>
+        <item>Should not be played while driving!</item>
+        <item>You\'re going too fast!</item>
+        <item>Don\'t feed chocolate to parrots!</item>
+        <item>The true meaning of covfefe</item>
+        <item>An illusion! What are you hiding?</item>
+        <item>Something\'s not quite right…</item>
+        <item>Monster infighting!</item>
+        <item>missingno</item>
+        <item>In case it isn\'t obvious, foxes aren\'t players.</item>
+        <item>Buzzy Bees!</item>
+        <item>Minecraft Java Edition presents: Disgusting Bugs</item>
+        <item>Team Mystic!</item>
+        <item>Hamilton!</item>
+        <item>(Bedrock Edition beta test) Beta!</item>
+        <item>Absolutely no memes!</item>
+    </string-array>
 </resources>
