@@ -1,4 +1,4 @@
-package viacheslav.chugunov.minecraftsplashwidget.domain
+package viacheslav.chugunov.minecraftsplashwidget.domain.repository
 
 import android.content.Context
 import viacheslav.chugunov.minecraftsplashwidget.R

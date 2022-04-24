@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    xmlns:tools="http://schemas.android.com/tools">
+    android:layout_height="wrap_content">
 
     <ImageView
         android:id="@+id/title"
-        android:paddingVertical="24dp"
-        android:paddingStart="24dp"
-        android:paddingEnd="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/minecraft_title"
-        android:contentDescription="@string/minecraft_title" />
+        android:contentDescription="@string/minecraft_title"
+        android:paddingVertical="24dp"
+        android:paddingStart="24dp"
+        android:paddingEnd="28dp"
+        android:src="@drawable/minecraft_title" />
 
-    <TextView
+    <ImageView
         android:id="@+id/splash"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="end|bottom"
-        android:rotation="-10"
         android:layout_marginEnd="24dp"
-        android:layout_marginBottom="28dp"
-        android:textColor="@color/yellow_splash"
-        android:textStyle="bold"
+        android:layout_marginBottom="24dp"
+        android:rotation="-10"
+        android:rotationX="0"
+        android:rotationY="0"
         android:shadowColor="@color/yellow_splash_shadow"
         android:shadowDx="5"
         android:shadowDy="5"
-        android:shadowRadius="0.5"
-        android:fontFamily="@font/splash_font"
-        tools:text="Splash"/>
+        android:shadowRadius="0.5" />
 </FrameLayout>
