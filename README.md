@@ -1,7 +1,7 @@
 # Minecraft Splash Widget
 
 ## General
-The application shows various splashes from the main menu of the game "Minecraft." The splash is updated every hour. All splashes are taken from the original game.
+The application shows various splashes from the main menu of the game "Minecraft". All splashes are taken from the original game. The splash updates every hour or immediately, after click on widget.
 
 <p align="center">
   <img src="https://github.com/viacheslav-chugunov/minecraft-splash-widget/blob/main/images/preview.png" width="250" >
